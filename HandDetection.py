@@ -110,4 +110,5 @@ def main():
     cap.release()
 
 
-main()
+if __name__ = "__main__":
+    main()
